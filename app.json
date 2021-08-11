@@ -16,7 +16,7 @@
   ],
   "window":{
     "backgroundTextStyle":"light",
-    "navigationBarBackgroundColor": "#fff",
+    "navigationBarBackgroundColor": "#eb4450",
     "navigationBarTitleText": "安安优购",
     "navigationBarTextStyle":"black"
   },
@@ -25,7 +25,7 @@
     "selectedColor": "#ff2d4a",
     "backgroundColor": "#fafafa",
     "position": "bottom",
-    "borderStyle": "black",
+    "borderStyle": "white",
     "list": [
       {
         "pagePath": "pages/index/index",

@@ -1,5 +1,6 @@
-<view>
-  首页
-  <text class="iconfont icon-fenxiang"></text>
+<view class="pyg_index">
+  <!-- 搜索框结构 开始 -->
+  <SearchInput>搜索框结构</SearchInput>
+  <!-- 搜索框结构 结束 -->
 </view>
 
